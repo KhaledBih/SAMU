@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:40:46 +0200] "GET /emergency-calls/ HTTP/1.1" 200 1105 http-bio-8080-exec-2 499
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:41:04 +0200] "GET /users/ HTTP/1.1" 200 402 http-bio-8080-exec-3 88
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:41:41 +0200] "GET /AT/ HTTP/1.1" 200 400 http-bio-8080-exec-4 48
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:41:57 +0200] "GET /subcategories/ HTTP/1.1" 200 55 http-bio-8080-exec-5 9
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:42:08 +0200] "GET /medicalrecords/ HTTP/1.1" 200 265 http-bio-8080-exec-6 11
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:42:28 +0200] "GET /emergysos/ HTTP/1.1" 200 196 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [16/Jul/2023:19:46:49 +0200] "GET /Emcatagorie/ HTTP/1.1" 200 218 http-bio-8080-exec-10 4
